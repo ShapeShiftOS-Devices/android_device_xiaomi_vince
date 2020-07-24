@@ -636,7 +636,7 @@
          devices where the display has been tuned to be power efficient in DOZE and/or DOZE_SUSPEND
          states. -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
-	
+
     <!-- Enable the RingtonePickerActivity in 'com.android.providers.media'. -->
     <bool name="config_defaultRingtonePickerEnabled">true</bool>
 
@@ -653,4 +653,9 @@
     <string name="config_SmartChargingSuspendValue" translatable="false">0</string>
     <string name="config_SmartChargingResumeValue" translatable="false">1</string>
 
+    <!-- Flag indicating whether the surface flinger has limited
+        alpha compositing functionality in hardware.  If set, the window
+        manager will disable alpha trasformation in animations where not
+        strictly needed. -->
+    <bool name="config_sf_limitedAlpha">true</bool>
 </resources>
