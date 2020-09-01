@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2018 Havoc-OS
+     Copyright (C) 2018 ExtendedUI
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About section -->
+    <string name="maintainer_name" translatable="false">Sinchan Dasgupta</string>
+    <string name="maintainer_telegram" translatable="false">https://t.me/shapeshift_vince</string>
+
+    <!-- About - Device specific links -->
+    
+    <!-- Firmware version -->
+    <string name="about_device_fw_ver" translatable="false">fw_vince_miui_HM5PlusGlobal_V11.0.2.0.OEGMIXM_f74369de0c_8.1</string>
+    <!-- Firmware link -->
+    <string name="about_device_fw_link" translatable="false">https://jaist.dl.osdn.jp/storage/g/x/xi/xiaomifirmwareupdater/Stable/V11/vince/fw_vince_miui_HM5PlusGlobal_V11.0.2.0.OEGMIXM_f74369de0c_8.1.zip</string>
+
+    <!-- Recovery version -->
+    <string name="about_device_recovery_ver" translatable="false">OrangeFox-R11.0_0-Beta-vince</string>
+    <!-- Recovery Link -->
+    <string name="about_device_recovery_link" translatable="false">https://files.orangefox.tech/OrangeFox-Beta/vince/OrangeFox-R11.0_0-Beta-vince.zip</string>
+
+</resources>
